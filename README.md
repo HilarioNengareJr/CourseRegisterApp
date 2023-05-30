@@ -1,5 +1,4 @@
 # CourseRegisterApp
-# Course Register
 
 Course Register is a web application designed to streamline the course registration process for students. It provides a user-friendly interface for students to browse available courses, select their desired courses, and submit their registration details. This repository contains the source code and necessary files for the Course Register project.
 
