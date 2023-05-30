@@ -4,7 +4,6 @@ Course Register is a web application designed to streamline the course registrat
 
 ## Features
 
-- User Registration: Students can create a new account by providing their personal information and choosing a username and password.
 - User Login: Registered students can log in securely using their credentials to access the course registration functionality.
 - Course Selection: Students can view the list of available courses, including course details such as title, instructor, schedule, and available seats.
 - Course Enrollment: Students can select the courses they wish to enroll in and add them to their registration list.
