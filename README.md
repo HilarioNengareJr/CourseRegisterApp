@@ -18,12 +18,12 @@ To run the Course Register application locally, follow these steps:
 
 1. Clone the repository to your local machine using the following command:
    ```
-   git clone https://github.com/your-username/course-register.git
+   git clone https://github.com/HilarioNengareJr/CourseRegisterApp.git
    ```
 
 2. Navigate to the project directory:
    ```
-   cd course-register
+   cd CourseRegisterApp
    ```
 
 3. Ensure that you have PHP and a web server (such as Apache or Nginx) installed on your machine.
