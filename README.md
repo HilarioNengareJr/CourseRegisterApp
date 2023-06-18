@@ -12,6 +12,8 @@ Course Register is a web application designed to streamline the course registrat
 
 ## Installation
 
+## Course Register App
+
 To run the Course Register application locally, follow these steps:
 
 1. Clone the repository to your local machine using the following command:
@@ -31,6 +33,22 @@ To run the Course Register application locally, follow these steps:
 5. Open a web browser and enter the URL corresponding to your local server setup (e.g., `http://localhost/course-register`).
 
 6. You should now be able to access the Course Register application and begin using its features.
+
+## XAMPP
+
+1. Download and install XAMPP: Go to the Apache Friends website (https://www.apachefriends.org/) and download the appropriate version of XAMPP for your operating system. Run the installer and follow the installation instructions.
+
+2. Start XAMPP: Once the installation is complete, open XAMPP control panel. On Windows, you can find it in the XAMPP installation directory (e.g., C:\xampp). On macOS, you can find it in the "Applications" folder. Linux users can start XAMPP from the terminal using the command `sudo /opt/lampp/lampp start`.
+
+3. Start Apache and MySQL: In the XAMPP control panel, click on the "Start" button next to Apache and MySQL. This will start the Apache web server and the MySQL database server.
+
+4. Test the installation: Open a web browser and enter `http://localhost` in the address bar. You should see the XAMPP welcome page, indicating that Apache is running correctly.
+
+5. Place the cloned CourseRegisterApp folder: By default, XAMPP serves files from the `htdocs` directory. On Windows, this directory is located in the XAMPP installation folder (e.g., C:\xampp\htdocs). On macOS, it is located at /Applications/XAMPP/xamppfiles/htdocs, and on Linux, it is located at /opt/lampp/htdocs. Place your PHP files inside this directory.
+
+6. Access your PHP files: You can access your PHP files by visiting `http://localhost/CourseRegisterApp` in your web browser.
+
+That's it! 
 
 ## Usage
 
